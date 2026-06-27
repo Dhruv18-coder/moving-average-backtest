@@ -1,1 +1,0 @@
-# moving-average-backtest
