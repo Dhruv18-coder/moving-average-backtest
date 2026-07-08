@@ -1,0 +1,9 @@
+venv/
+path/to/venv/
+__pycache__/
+*.pyc
+.DS_Store
+.gitignore
+data/
+.vscode/
+README.md
